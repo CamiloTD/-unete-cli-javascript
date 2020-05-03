@@ -1,0 +1,15 @@
+{
+  "name": "-unete-cli-javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:CamiloTD/-unete-cli-javascript.git",
+  "author": "CamiloTD <camilotd1999@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@unete/cli": "^1.0.0-15"
+  },
+
+  "scripts": {
+    "start": "unete serve"
+  }
+}
